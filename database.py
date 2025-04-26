@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get MongoDB URL from environment variable
-MONGO_URL = os.getenv("MONGODB_URI", "mongodb://localhost:27017")
+MONGO_URL = os.getenv("MONGODB_URI", "mongodb+srv://rohitsetia2005:setia76448@cluster0.5pxqz2u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 try:
     # Connect to MongoDB with error handling

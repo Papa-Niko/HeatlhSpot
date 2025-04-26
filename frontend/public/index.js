@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             };
 
             try {
-                const response = await fetch("https://your-render-backend-url.onrender.com/add-user", {
+                const response = await fetch("https://heatlhspot.onrender.com", {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"

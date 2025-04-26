@@ -20,5 +20,6 @@ This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
 
 ## Authors 
 Armaan <br>
-Sanchit  <br>
-
+Rohit <br>
+Rajdeep <br>
+Gurkirat <br>
